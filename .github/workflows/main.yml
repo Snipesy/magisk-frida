@@ -29,4 +29,4 @@ jobs:
         with:
           artifacts: build/*.zip
           tag: "${{ env.NEW_TAG }}"
-          body: hhttps://github.com/Snipesy/frida/releases
+          body: https://github.com/Snipesy/frida/releases
